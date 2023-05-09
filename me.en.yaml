@@ -1,59 +1,61 @@
 basics:
-  email: anakin@skywalker.com
+  email: joaovfranca1@gmail.com
   location:
-    city: Mos Eisley
-    countryCode: Tatooine
-  name: Anakin Skywalker
-  phone: 123-456-7890
+    city: Fortaleza
+    countryCode: Ceará
+  name: João Victor de França
+  phone: (85)98142-2679
   profiles:
   - network: Github
-    url: https://github.com/alexlren
-    username: alexlren
+    url: https://github.com/Jaofranca
+    username: Jaofranca
   - network: Linkedin
-    url: https://www.linkedin.com/anakin
-    username: anakin
-  url: https://shaoner.com
+    url: https://www.linkedin.com/in/joaovfranca/
+    username: João Victor França
+  url: https://jaofranca.github.io
 education:
-- area: Jedi / General
-  institution: Jedi Academy
-  startDate: '2011-01-01'
+- area: Bacharel em ciência da Computação
+  institution: Ifce Campus Maracanaú
+  startDate: '2019-04-03'
 meta:
   breaks_before:
     education: true
 projects:
-- description: a multiplatform gameboy engine
+- description: Um buscador de Cartas de magic the gathering
   keywords:
-  - Rust
-  - React.js
-  name: padme
-  url: https://padme.cc
-- description: A special lightsaber
+  - Flutter
+  - Dart
+  name: MtgSearcher
+  url: https://github.com/Jaofranca/MtgSearcher
+- description: Um jogo de xadrez multiplataforma
   keywords:
-  - C++
-  - Qt
-  name: lightsaber
+  - C#
+  - Unity
+  name: ChessCake
+  url: https://github.com/Jaofranca/Chesscake
 skills:
 - keywords:
-  - Rust
+  - Dart
   - Python
+  - Javascript
   name: Languages
 - keywords:
-  - numpy
-  - Qt
-  name: Frameworks/libraries
+  - Flutter
+  name: Frameworks
 - keywords:
-  - AWS
-  - docker
-  - kubernetes
-  name: Devops
+  - Bloc
+  - MobX
+  - Provider
+  name: Gerências de estado
 - keywords:
-  - emacs
-  - Makefile
-  name: Tools
+  - Clean Architecture
+  - Mvc
+  - Mvvm
+  name: Padrões arquiteturais
 - keywords:
   - Linux
   - FreeBSD
-  name: OS
+  name: 
 work:
 - highlights:
   - Killed a few rebels here and there
